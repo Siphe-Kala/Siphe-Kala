@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siphe-Kala
-- 👀 I’m interested in Data Analytics and its applications to resolve the information vacuum in South Africa
+- 👀 I’m interested in Data Analytics and its applications to resolve the information vacuum in Africa
 - 🌱 I’m currently learning Data Science through a beginner course
 - 💞️ I’m looking to collaborate on any projects that can help me hone my skills (bearing in mind I'm a beginner!)
 - 📫 How to reach me blaqgold@gmail.com
